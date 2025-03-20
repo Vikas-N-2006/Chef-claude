@@ -36,8 +36,7 @@ Ensure you have the following installed:
 ## 🛠️ Tech Stack
 - **Frontend**: React.js
 
-## 📸 Screenshots
-(Include images of the UI for better understanding)
+
 
 ## 🤝 Contributing
 Contributions are welcome! To contribute:
