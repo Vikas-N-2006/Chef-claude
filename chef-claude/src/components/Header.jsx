@@ -3,7 +3,7 @@ export default function Header() {
     <>
       <header className='head-container'>
         <img
-          src='../src/assets/chef-icon.png'
+          src='/src/assets/chef-icon.png'
           alt='Chef icon'
           className='chef-marker'
         />
